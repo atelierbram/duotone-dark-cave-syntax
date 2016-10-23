@@ -1,0 +1,22 @@
+{
+  "name": "duotone-dark-cave-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A dark DuoTone syntax theme",
+  "keywords": [
+    "dark",
+    "brown",
+    "crimson",
+    "red",
+    "pink",
+    "yellow",
+    "ocre",
+    "duotone",
+    "syntax"
+  ],
+  "repository": "https://github.com/atelierbram/duotone-dark-cave-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">1.0.0"
+  }
+}
